@@ -1,0 +1,64 @@
+{
+  "Chat History" : "aashree2019:Snssnsns",
+  "Current Location" : {
+    "aadifernandes9" : {
+      "Current Latitude" : 19.0706116,
+      "Current Longitude" : 72.9997091
+    },
+    "aaryaapg" : {
+      "Current Latitude" : 19.1598533,
+      "Current Longitude" : 72.8414735
+    },
+    "aashree2019" : {
+      "Current Latitude" : 19.1443381,
+      "Current Longitude" : 72.9329417
+    }
+  },
+  "People" : {
+    "aadifernandes9" : {
+      "EMAIL" : "aadifernandes9@gmail.com",
+      "EMCONTACT" : "8007461489",
+      "NAME" : "Aadi Fernandes",
+      "NICKNAME" : "Aadi",
+      "NUMBER" : "9819264377"
+    },
+    "aaryaapg" : {
+      "EMAIL" : "aaryaapg@gmail.com",
+      "EMCONTACT" : "9664673782",
+      "NAME" : "Aaryaa Padhyegurjar",
+      "NICKNAME" : "Aaryaa",
+      "NUMBER" : "8007461489"
+    },
+    "aashree2019" : {
+      "EMAIL" : "aashree2019@gmail.com",
+      "EMCONTACT" : "8007461489",
+      "NAME" : "Rashi",
+      "NICKNAME" : "Rashii",
+      "NUMBER" : "9664673782"
+    }
+  },
+  "Saved Locations" : {
+    "AaryaaHome" : {
+      "DESCRIPTION" : "Goregaon",
+      "LATITUDE" : "19.1598396",
+      "LOCATION NAME" : "AaryaaHome",
+      "LONGITUDE" : "72.8414691"
+    },
+    "VESIT" : {
+      "DESCRIPTION" : "College",
+      "LATITUDE" : "19.0457595",
+      "LOCATION NAME" : "VESIT",
+      "LONGITUDE" : "72.8890571"
+    }
+  },
+  "m1" : "aadifernandes9:Hello",
+  "m10" : "aashree2019:Snssnsns",
+  "m2" : "aaryaapg:Hi aadi",
+  "m3" : "aashree2019:Ssup",
+  "m4" : "aashree2019:Hello",
+  "m5" : "aashree2019:Snajahsbsbs",
+  "m6" : "aaryaapg:JV Ab,akbbzlnazlnalznalnz",
+  "m7" : "aashree2019:Snssbsbs",
+  "m8" : "aashree2019:Hi aadi👻",
+  "m9" : "aashree2019:"
+}
