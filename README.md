@@ -10,8 +10,6 @@ The other aspect of the solution being the hardware which showcases the location
 The temperature, humidity, date and time are also displayed on the LCD using the corresponding sensors and data from the internet in order to have additional benefits within the
 same setup. So, this entire system would not only be able to tell the location of the family members in real time but also incorporates several other critical features to make it user friendly and drastically improve its real-world applications when it is deployed.
 
-PS: The name Locader is derived from "Location Detection and Emergency Response".
-
 ## Block Diagram
 ![Block BE](https://user-images.githubusercontent.com/61982410/137270801-37e75262-cdb4-466f-a46e-c7ea77a6f927.jpg)
 
