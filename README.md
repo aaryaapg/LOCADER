@@ -1,8 +1,7 @@
-# LOCADER
-_A Realtime Location Identification & Alerting System_
+# Real-time Location Identification and Alerting System
 
 ## Abstract
-This prototype is a reliable and an easy-to-operate application for location sharing, messaging and emergency location trigger. The said prototype uses a microcontroller with IoT technologies to formulate a comprehensive solution for the problem at hand. The central idea is to make it much more intuitive and seamless to know the location of any family member at any given duration while they have access to the internet connectivity for the GPS tracking.
+This prototype is a reliable and easy-to-operate application for location sharing, messaging, and emergency location triggers. It uses a microcontroller with IoT technologies to formulate a comprehensive solution for the problem at hand. The central idea is to make it much more intuitive and seamless to know the location of any family member at any given time while they have access to internet connectivity for GPS tracking.
 
 The solution is twofold, one being the app which would use the Thunkable framework to provide the location of the user with pinpoint accuracy. There are multiple users that can sign up to the app and join one family circle where each other’s whereabouts can be accessed easily. Alongside this, there is also a chat system within the app which can be used by all the members within the same family circle for general conversations. The app also incorporates the provision that triggers a message to the registered numbers with the location in case of emergencies.
 
